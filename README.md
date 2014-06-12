@@ -46,4 +46,4 @@ __stopReception__
 	smsplugin.stopReception(successCallback(result),failureCallback(error));
 
 
-This fork fixes the character case problem for online adobe builder ("Class not found")
+This fork fixes the character case problem for online adobe builder ("Class not found") as far as the mainteiner doesnt support it.
