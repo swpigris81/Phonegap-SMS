@@ -1,4 +1,4 @@
-package info.ivanezko.phonegap.smsplugin;
+package info.satpal.phonegap.smsplugin;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

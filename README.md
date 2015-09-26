@@ -1,4 +1,4 @@
-# Phonegap-SMS
+# Phonegap-SMS-Plugin
 
 ## PhoneGap plugin to send and receive sms
 
@@ -17,15 +17,15 @@
 
 #### Installation
 
-    phonegap plugin add https://github.com/asanka-x/Phonegap-SMS.git
+    phonegap plugin add https://github.com/tanansatpal/Phonegap-SMS.git
     
 __or__
     
-    cordova plugin add https://github.com/asanka-x/Phonegap-SMS.git
+    cordova plugin add https://github.com/tanansatpal/Phonegap-SMS.git
 	
 #### Require the plugin module
 
-	var smsplugin = cordova.require("info.asankan.phonegap.smsplugin.smsplugin");
+	var smsplugin = cordova.require("info.satpal.phonegap.smsplugin.smsplugin");
     
 #### Methods
 

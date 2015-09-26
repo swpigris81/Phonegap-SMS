@@ -1,4 +1,4 @@
-package info.ivanezko.phonegap.smsplugin;
+package info.satpal.phonegap.smsplugin;
 
 import android.app.Activity;
 import android.app.PendingIntent;
